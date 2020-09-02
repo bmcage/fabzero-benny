@@ -20,4 +20,8 @@ images:
 
 # Album Images
 
+![foto benny](https://cage.ugent.be/~bm/pics/benny.jpg)
+
+![foto benny]({{site.baseurl}}/assets/benny.jpg)
+
 {% include album.liquid data=page.images %}
