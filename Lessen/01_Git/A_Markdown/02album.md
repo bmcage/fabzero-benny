@@ -20,7 +20,11 @@ images:
 
 # Album Images
 
+Voorbeeld van een foto op het internet:
+
 ![foto benny](https://cage.ugent.be/~bm/pics/benny.jpg)
+
+Voorbeeld van een foto in mijn repository:
 
 ![foto benny]({{ site.baseurl }}/assets/benny.jpg)
 
